@@ -1,0 +1,31 @@
+ Volume in drive E is My Lessons(1.5T)
+ Volume Serial Number is F494-EB73
+
+ Directory of E:\CS2024\python5
+
+11/04/2023  07:39 PM    <DIR>          .
+11/04/2023  07:39 PM    <DIR>          ..
+10/11/2023  08:25 PM                33 add.py
+10/21/2023  07:52 PM               138 area.py
+10/22/2023  07:46 PM             1,239 burmese.txt
+10/22/2023  07:21 PM               103 calculate.py
+10/21/2023  07:27 PM               119 cont.py
+10/15/2023  07:20 PM               163 cs.py
+11/04/2023  07:39 PM                 0 dir.txt
+10/15/2023  08:06 PM               173 dosc.py
+10/11/2023  08:31 PM                61 echo.py
+11/04/2023  07:30 PM               180 fileio.py
+10/22/2023  07:16 PM                87 fun.py
+10/07/2023  08:06 PM               128 hello.py
+10/11/2023  08:28 PM                23 hello2.py
+10/11/2023  08:52 PM               247 intro.py
+10/14/2023  08:02 PM               296 list.py
+10/11/2023  08:56 PM               154 mul.py
+10/15/2023  07:51 PM                25 range.py
+10/15/2023  08:08 PM    <DIR>          test
+10/22/2023  07:43 PM               463 tran.py
+11/04/2023  07:30 PM               107 translate.txt
+10/21/2023  07:17 PM               293 whileloop.py
+10/22/2023  07:17 PM    <DIR>          __pycache__
+              20 File(s)          4,032 bytes
+               4 Dir(s)  21,489,930,240 bytes free

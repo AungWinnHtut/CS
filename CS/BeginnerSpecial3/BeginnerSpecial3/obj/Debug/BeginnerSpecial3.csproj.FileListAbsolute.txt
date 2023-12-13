@@ -1,0 +1,11 @@
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\bin\Debug\BeginnerSpecial3.exe.config
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\bin\Debug\BeginnerSpecial3.exe
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\bin\Debug\BeginnerSpecial3.pdb
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\obj\Debug\BeginnerSpecial3.csproj.AssemblyReference.cache
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\obj\Debug\BeginnerSpecial3.csproj.SuggestedBindingRedirects.cache
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\obj\Debug\BeginnerSpecial3.frmGame.resources
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\obj\Debug\BeginnerSpecial3.Properties.Resources.resources
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\obj\Debug\BeginnerSpecial3.csproj.GenerateResource.cache
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\obj\Debug\BeginnerSpecial3.csproj.CoreCompileInputs.cache
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\obj\Debug\BeginnerSpecial3.exe
+E:\CS2024\CS\BeginnerSpecial3\BeginnerSpecial3\obj\Debug\BeginnerSpecial3.pdb

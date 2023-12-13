@@ -1,0 +1,11 @@
+E:\CS2024\cpp\casting\casting\bin\Debug\casting.exe.config
+E:\CS2024\cpp\casting\casting\bin\Debug\casting.exe
+E:\CS2024\cpp\casting\casting\bin\Debug\casting.pdb
+E:\CS2024\cpp\casting\casting\obj\Debug\casting.csproj.AssemblyReference.cache
+E:\CS2024\cpp\casting\casting\obj\Debug\casting.csproj.SuggestedBindingRedirects.cache
+E:\CS2024\cpp\casting\casting\obj\Debug\casting.Form1.resources
+E:\CS2024\cpp\casting\casting\obj\Debug\casting.Properties.Resources.resources
+E:\CS2024\cpp\casting\casting\obj\Debug\casting.csproj.GenerateResource.cache
+E:\CS2024\cpp\casting\casting\obj\Debug\casting.csproj.CoreCompileInputs.cache
+E:\CS2024\cpp\casting\casting\obj\Debug\casting.exe
+E:\CS2024\cpp\casting\casting\obj\Debug\casting.pdb

@@ -1,0 +1,11 @@
+E:\CS2024\CS\ziptest\ziptest\bin\Debug\ziptest.exe.config
+E:\CS2024\CS\ziptest\ziptest\bin\Debug\ziptest.exe
+E:\CS2024\CS\ziptest\ziptest\bin\Debug\ziptest.pdb
+E:\CS2024\CS\ziptest\ziptest\obj\Debug\ziptest.csproj.AssemblyReference.cache
+E:\CS2024\CS\ziptest\ziptest\obj\Debug\ziptest.csproj.SuggestedBindingRedirects.cache
+E:\CS2024\CS\ziptest\ziptest\obj\Debug\ziptest.frmZipTest.resources
+E:\CS2024\CS\ziptest\ziptest\obj\Debug\ziptest.Properties.Resources.resources
+E:\CS2024\CS\ziptest\ziptest\obj\Debug\ziptest.csproj.GenerateResource.cache
+E:\CS2024\CS\ziptest\ziptest\obj\Debug\ziptest.csproj.CoreCompileInputs.cache
+E:\CS2024\CS\ziptest\ziptest\obj\Debug\ziptest.exe
+E:\CS2024\CS\ziptest\ziptest\obj\Debug\ziptest.pdb

@@ -1,0 +1,13 @@
+ Volume in drive E is My Lessons(1.5T)
+ Volume Serial Number is F494-EB73
+
+ Directory of E:\CS2024\PythonUS
+
+11/04/2023  07:48 AM    <DIR>          .
+11/04/2023  07:48 AM    <DIR>          ..
+11/04/2023  07:40 AM               168 area.py
+11/04/2023  07:49 AM                57 com.py
+11/04/2023  07:34 AM               366 hello.py
+11/04/2023  07:49 AM                 0 sys.txt
+               4 File(s)            591 bytes
+               2 Dir(s)  21,489,926,144 bytes free

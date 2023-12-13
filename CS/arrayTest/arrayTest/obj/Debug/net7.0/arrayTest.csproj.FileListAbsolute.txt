@@ -1,0 +1,14 @@
+E:\CS2024\CS\arrayTest\arrayTest\bin\Debug\net7.0\arrayTest.exe
+E:\CS2024\CS\arrayTest\arrayTest\bin\Debug\net7.0\arrayTest.deps.json
+E:\CS2024\CS\arrayTest\arrayTest\bin\Debug\net7.0\arrayTest.runtimeconfig.json
+E:\CS2024\CS\arrayTest\arrayTest\bin\Debug\net7.0\arrayTest.dll
+E:\CS2024\CS\arrayTest\arrayTest\bin\Debug\net7.0\arrayTest.pdb
+E:\CS2024\CS\arrayTest\arrayTest\obj\Debug\net7.0\arrayTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS2024\CS\arrayTest\arrayTest\obj\Debug\net7.0\arrayTest.AssemblyInfoInputs.cache
+E:\CS2024\CS\arrayTest\arrayTest\obj\Debug\net7.0\arrayTest.AssemblyInfo.cs
+E:\CS2024\CS\arrayTest\arrayTest\obj\Debug\net7.0\arrayTest.csproj.CoreCompileInputs.cache
+E:\CS2024\CS\arrayTest\arrayTest\obj\Debug\net7.0\arrayTest.dll
+E:\CS2024\CS\arrayTest\arrayTest\obj\Debug\net7.0\refint\arrayTest.dll
+E:\CS2024\CS\arrayTest\arrayTest\obj\Debug\net7.0\arrayTest.pdb
+E:\CS2024\CS\arrayTest\arrayTest\obj\Debug\net7.0\arrayTest.genruntimeconfig.cache
+E:\CS2024\CS\arrayTest\arrayTest\obj\Debug\net7.0\ref\arrayTest.dll

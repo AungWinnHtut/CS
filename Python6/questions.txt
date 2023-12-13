@@ -1,0 +1,3 @@
+Longest river in the world? 1-Nile, 2-Arrawaddy, 3-Chindwin : # 1
+Highest mountain in the world? 1-Poppa, 2-Pegu, 3-Mount-Everest : # 3
+1+3 ? 1-2, 2-3, 3-4 : # 3

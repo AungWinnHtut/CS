@@ -1,0 +1,14 @@
+E:\CS2024\CS\CardOOP\CardOOP\obj\Debug\net7.0\CardOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS2024\CS\CardOOP\CardOOP\obj\Debug\net7.0\CardOOP.AssemblyInfoInputs.cache
+E:\CS2024\CS\CardOOP\CardOOP\obj\Debug\net7.0\CardOOP.AssemblyInfo.cs
+E:\CS2024\CS\CardOOP\CardOOP\obj\Debug\net7.0\CardOOP.csproj.CoreCompileInputs.cache
+E:\CS2024\CS\CardOOP\CardOOP\bin\Debug\net7.0\CardOOP.exe
+E:\CS2024\CS\CardOOP\CardOOP\bin\Debug\net7.0\CardOOP.deps.json
+E:\CS2024\CS\CardOOP\CardOOP\bin\Debug\net7.0\CardOOP.runtimeconfig.json
+E:\CS2024\CS\CardOOP\CardOOP\bin\Debug\net7.0\CardOOP.dll
+E:\CS2024\CS\CardOOP\CardOOP\bin\Debug\net7.0\CardOOP.pdb
+E:\CS2024\CS\CardOOP\CardOOP\obj\Debug\net7.0\CardOOP.dll
+E:\CS2024\CS\CardOOP\CardOOP\obj\Debug\net7.0\refint\CardOOP.dll
+E:\CS2024\CS\CardOOP\CardOOP\obj\Debug\net7.0\CardOOP.pdb
+E:\CS2024\CS\CardOOP\CardOOP\obj\Debug\net7.0\CardOOP.genruntimeconfig.cache
+E:\CS2024\CS\CardOOP\CardOOP\obj\Debug\net7.0\ref\CardOOP.dll

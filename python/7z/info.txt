@@ -1,0 +1,81 @@
+
+Host Name:                 DESKTOP-RKP296I
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          bluephoenix
+Registered Organization:   
+Product ID:                00330-80000-00000-AA630
+Original Install Date:     6/5/2023, 10:18:19 PM
+System Boot Time:          8/20/2023, 9:34:35 AM
+System Manufacturer:       ASUS
+System Model:              System Product Name
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 165 Stepping 5 GenuineIntel ~2904 Mhz
+BIOS Version:              American Megatrends Inc. 1017, 7/12/2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume8
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+06:30) Yangon (Rangoon)
+Total Physical Memory:     32,578 MB
+Available Physical Memory: 8,586 MB
+Virtual Memory: Max Size:  52,034 MB
+Virtual Memory: Available: 15,407 MB
+Virtual Memory: In Use:    36,627 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-RKP296I
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB5022502
+                           [02]: KB5015684
+                           [03]: KB5026361
+                           [04]: KB5014032
+                           [05]: KB5016705
+                           [06]: KB5025315
+Network Card(s):           9 NIC(s) Installed.
+                           [01]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Ethernet Connection (14) I219-V
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.122
+                                 [02]: fe80::2453:1381:498e:a8c3
+                           [03]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Ethernet 3)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.25.16.1
+                                 [02]: fe80::e85:7557:c698:29c4
+                           [04]: HMI Ethernet Adapter
+                                 Connection Name: Ethernet 3
+                                 Status:          Media disconnected
+                           [05]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Ethernet)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.18.48.1
+                                 [02]: fe80::eb57:b853:20cd:fa8b
+                           [06]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Ethernet 2)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.19.128.1
+                                 [02]: fe80::e259:ddaf:fe51:66ec
+                           [07]: ExpressVPN TUN Driver
+                                 Connection Name: Local Area Connection 2
+                                 Status:          Media disconnected
+                           [08]: ExpressVPN TAP Adapter
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+                           [09]: Kaspersky VPN
+                                 Connection Name: Local Area Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.

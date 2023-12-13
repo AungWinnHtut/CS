@@ -1,0 +1,16 @@
+E:\CS2024\CS\KaraokeTest\KaraokeTest\bin\Debug\KaraokeTest.exe.config
+E:\CS2024\CS\KaraokeTest\KaraokeTest\bin\Debug\KaraokeTest.exe
+E:\CS2024\CS\KaraokeTest\KaraokeTest\bin\Debug\KaraokeTest.pdb
+E:\CS2024\CS\KaraokeTest\KaraokeTest\bin\Debug\Interop.WMPLib.dll
+E:\CS2024\CS\KaraokeTest\KaraokeTest\bin\Debug\AxInterop.WMPLib.dll
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\KaraokeTest.csproj.AssemblyReference.cache
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\KaraokeTest.csproj.SuggestedBindingRedirects.cache
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\Interop.WMPLib.dll
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\AxInterop.WMPLib.dll
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\KaraokeTest.csproj.ResolveComReference.cache
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\KaraokeTest.frmKaraoke.resources
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\KaraokeTest.Properties.Resources.resources
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\KaraokeTest.csproj.GenerateResource.cache
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\KaraokeTest.csproj.CoreCompileInputs.cache
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\KaraokeTest.exe
+E:\CS2024\CS\KaraokeTest\KaraokeTest\obj\Debug\KaraokeTest.pdb
