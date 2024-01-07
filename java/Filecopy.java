@@ -12,7 +12,7 @@ public class Filecopy {
         out = new FileOutputStream("output.txt");
 
         int c;
-        while ((c = in.read()) != -1) {
+        while ((c = in.read()) != -1) {  //EOF - end of file
             out.write(c);
         }
         in.close();
