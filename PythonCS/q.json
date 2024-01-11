@@ -1,0 +1,37 @@
+[
+    {
+        "question" : "longest river ",
+        "option1" : "1. Nile",
+        "option2" : "2. Chindwin",
+        "option3" : "3. Maykha",
+        "correct_ans" : "1"
+    }, 
+    {
+        "question" : "lonhigest mountain ",
+        "option1" : "1. Nile",
+        "option2" : "2. Everyest",
+        "option3" : "3. Maykha",
+        "correct_ans" : "2"
+    },
+    {
+        "question" : "richest people ",
+        "option1" : "1. Elon Musk",
+        "option2" : "2. Bill Gate",
+        "option3" : "3. Maykha",
+        "correct_ans" : "1"
+    },
+    {
+        "question" : "deepest ocean ",
+        "option1" : "1. Nile",
+        "option2" : "2. Chindwin",
+        "option3" : "3. Pacific Ocean",
+        "correct_ans" : "3"
+    },
+    {
+        "question" : "မြန်မာနိုင်ငံ၏ မြို့တော် ",
+        "option1" : "1. ရန်ကုန်",
+        "option2" : "2. မန္တလေး",
+        "option3" : "3. နေပြည်တော်",
+        "correct_ans" : "3"
+    }
+]

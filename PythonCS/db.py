@@ -5,19 +5,19 @@ from icecream import ic
 
 def create_database(cursor, database_name):
     query = "CREATE DATABASE IF NOT EXISTS %s"
-    cursor.execute(query , (database_name,))
+    cursor.execute(query % (database_name,))
 
 def drop_table(cursor, table_name):
     query = "DROP TABLE IF EXISTS %s"
-    cursor.execute(query , (table_name,))
+    cursor.execute(query % (table_name,))
 
 def rename_table(cursor, old_table_name, new_table_name):
     query = "RENAME TABLE %s TO %s"
-    cursor.execute(query , (old_table_name, new_table_name))
+    cursor.execute(query % (old_table_name, new_table_name))
 
 def create_table(cursor, table_name, table_str):
     query = "CREATE TABLE %s (%s)"
-    cursor.execute(query , (table_name, table_str))
+    cursor.execute(query % (table_name, table_str))
 
 def create_student(cursor, name, age):
     query = "INSERT INTO students (name, age) VALUES (%s, %s)"

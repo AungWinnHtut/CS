@@ -11,10 +11,15 @@ con = connect_to_mysql(config, attempts=3)
 
 if con and con.is_connected():
     print('Database is connected')
+    
     with con.cursor() as cursor:
+        
         sql = 'SELECT * FROM students'
         cursor.execute(sql)
         result = cursor.fetchall()
+        columns = cursor.column_names
+        ic(columns)
         #ic(result)
         for row in result:
-            ic(row)
+            if row[columns.index('age')] > 30:
+                ic(row[columns.index('age')])
