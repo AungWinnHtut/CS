@@ -35,9 +35,10 @@ def fun_check():
     
     lbl_score.config(text=f"Total: {score}")    
     s_no += 1
-    if s_no < total_s_no:
+    if s_no < total_s_no:        
         slide_index = 'Exam No. ' + str(s_no+1) + ' / ' + str(total_s_no)
         lbl_slide_number.config(text=str(slide_index))
+        lbl_question.config(text=qlist[s_no]['question'])
         lbl_option1.config(text=qlist[s_no]['option1'])
         lbl_option2.config(text=qlist[s_no]['option2'])
         lbl_option3.config(text=qlist[s_no]['option3'])
