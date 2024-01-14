@@ -1,12 +1,11 @@
 import mysql.connector
 
 db_connection = mysql.connector.connect(
-    host = "localhost",
-    user = "root",
-    passwd = ""
-    
-    
+    host = "s4.greenhackers.org",
+    user = "blue",
+    passwd = "1234@Awh"        
 )
+
 # NO ERROR IN CONNECTION
 print('mySQL is connected successfully!')
 

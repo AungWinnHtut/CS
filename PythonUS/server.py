@@ -4,6 +4,7 @@ port = 5001
 server = socket.socket()
 server.bind((host,port))
 server.listen()
+print('Server is starting and waiting connection.....')
 conn, addr = server.accept()
 print ("Connection from: " + str(addr))
 while True:
