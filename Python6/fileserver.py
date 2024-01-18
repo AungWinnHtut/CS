@@ -4,8 +4,12 @@ port = 5001
 server = socket.socket()
 server.bind((host, port))
 server.listen()
+print('Server is Listening.....')
 conn, addr = server.accept()
-data = conn.recv(1).decode()
+data = conn.recv(1024).decode()
+print(repr(data))
+print()
+#######################
 filename='logo.jpg'
 f = open(filename,'rb')  # rb ဆိုတာ read in binary mode
 i = 0
