@@ -1,15 +1,15 @@
 import mysql.connector
+from mycon import connect_to_mysql
+from db_config import config
 
-db_connection = mysql.connector.connect(
-    host = "s4.greenhackers.org",
-    user = "blue",
-    passwd = "1234@Awh"        
-)
+
+# cnx = database connection object
+cnx = connect_to_mysql(config, attempts=3)
 
 # NO ERROR IN CONNECTION
 print('mySQL is connected successfully!')
 
-mycursor = db_connection.cursor()
+mycursor = cnx.cursor()
 
 mycursor.execute('CREATE DATABASE IF NOT EXISTS gamedb')
 
