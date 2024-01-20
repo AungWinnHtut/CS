@@ -3,7 +3,7 @@ import time
 import os
 
 s = socket.socket()
-host = "127.0.0.1"
+host = "s3.greenhackers.org"
 port = 5001
 
 file_name = input('Enter Filename to transfer: ')

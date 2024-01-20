@@ -1,0 +1,12 @@
+[Unit]
+Description=File Server Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /root/fileserver2.py
+Restart=always
+User=root
+WorkingDirectory=/root
+
+[Install]
+WantedBy=default.target
