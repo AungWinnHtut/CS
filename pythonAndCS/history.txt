@@ -1,0 +1,418 @@
+    1  add user gh1
+    2  adduser gh1
+    3  adduser gh2
+    4  adduser gh3
+    5  adduser gh4
+    6  adduser gh5
+    7  adduser gh6
+    8  adduser gh7
+    9  adduser gh8
+   10  adduser gh9
+   11  adduser gh10
+   12  adduser gh11
+   13  adduser gh12
+   14  adduser gh13
+   15  adduser gh14
+   16  adduser gh15
+   17  adduser gh16
+   18  adduser gh17
+   19  adduser gh18
+   20  adduser gh19
+   21  adduser gh20
+   22  sudo usermod -aG sudo gh1 gh2 gh3 gh4 gh5 gh6 gh7 gh8 gh9 gh10 gh11 gh12 gh13 gh14 gh15 gh16 gh17 gh18 gh19 gh20
+   23  sudo usermod -a sudo gh1 gh2 gh3 gh4 gh5 gh6 gh7 gh8 gh9 gh10 gh11 gh12 gh13 gh14 gh15 gh16 gh17 gh18 gh19 gh20
+   24  sudo usermod -aG wheel gh1 gh2 gh3 gh4 gh5 gh6 gh7 gh8 gh9 gh10 gh11 gh12 gh13 gh14 gh15 gh16 gh17 gh18 gh19 gh20
+   25  usermod -aG sudo gh1
+   26  usermod -aG sudo gh2
+   27  usermod -aG sudo gh3
+   28  usermod -aG sudo gh4
+   29  usermod -aG sudo gh5
+   30  usermod -aG sudo gh6
+   31  usermod -aG sudo gh7
+   32  usermod -aG sudo gh8
+   33  usermod -aG sudo gh9
+   34  usermod -aG sudo gh10
+   35  usermod -aG sudo gh11
+   36  usermod -aG sudo gh12
+   37  usermod -aG sudo gh13
+   38  usermod -aG sudo gh14
+   39  usermod -aG sudo gh15
+   40  usermod -aG sudo gh16
+   41  usermod -aG sudo gh17
+   42  usermod -aG sudo gh18
+   43  usermod -aG sudo gh19
+   44  usermod -aG sudo gh20
+   45  sudo passwd
+   46  ls
+   47  cd /
+   48  ls
+   49  apt get update
+   50  apt-get update
+   51  apt-get upgrade
+   52  ls
+   53  cd home
+   54  ls
+   55  cd gh12
+   56  ls
+   57  cd ..
+   58  ls
+   59  cd ..
+   60  ls
+   61  cd root
+   62  ls
+   63  cd snap
+   64  ls
+   65  cd lxd
+   66  ls
+   67  cd 25945
+   68  ls
+   69  cd ..
+   70  ls
+   71  cd common
+   72  ls
+   73  cd ..
+   74  ls
+   75  sudo apt install python3
+   76  nano 
+   77  ls
+   78  rm user.py
+   79  ls
+   80  cd home
+   81  ls
+   82  cd gh7
+   83  ls
+   84  mkdir Desktop
+   85  mkdir Download
+   86  mkdir Document
+   87  ls
+   88  cd Desktop
+   89  nano
+   90  python user.py
+   91  python3 user.py
+   92  apt install python
+   93  pip install icecream
+   94  apt install python3
+   95  apt install python3 pip
+   96  pip install icecream
+   97  pip show icecream
+   98  pip install icecream
+   99  apt install python3-xyz
+  100  pip install icecream
+  101  cd /
+  102  ls
+  103  cd usr/share/doc/python3.11
+  104  ls
+  105  pip install icecream
+  106  ls
+  107  README.venv
+  108  cat README.venv
+  109  cd home/gh7/
+  110  cd /home/gh7/Desktop
+  111  ls
+  112  nano 
+  113  ls
+  114  python3 ic.py
+  115  pip install boto3
+  116  source /etc/environment
+  117  pip install icecream
+  118  cd /
+  119  ls
+  120  cd etc
+  121  ls
+  122  apt install python
+  123  apt install python3
+  124  pip install icecream
+  125  python3 -m venv path/to/venv
+  126  apt install python3.11-venv
+  127  pip install icecream
+  128  sudo pip install icecream
+  129  python3 -m venv path/to/venv
+  130  path/to/venv/bin/pip
+  131  pip install icecream
+  132  cd /home/gh7/Desktop
+  133  ls
+  134  python3 -m venv dbenv
+  135  apt-get install python3.11-venv
+  136  python3 -m venv dbenv
+  137  source dbenv/bin/activate
+  138  pip install icecream
+  139  pip install mysql-connector-python
+  140  python3 ic.py
+  141  python3
+  142  cat ic.py
+  143  nano ic.py
+  144  python3 ic.py
+  145  exit() logout
+  146  logout
+  147  deactivate
+  148  logout
+  149  scp C:\Users\ThetPaingAung\OneDrive\Desktop\AES.txt gh7@165.22,61.141:/home/gh7
+  150  scp C:\Users\ThetPaingAung\OneDrive\Desktop\AES.txt gh7@165.22.61.141:/home/gh7
+  151  ls
+  152  cd ..
+  153  ls
+  154  logout
+  155  exit
+  156  apt install openssh-server
+  157  scp C:\AES.txt gh7@165.22.61.141:/home/gh7
+  158  clear
+  159  add user gh21
+  160  adduser gh21
+  161  usermod -aG sudo gh21
+  162  logout
+  163  cd /root
+  164  ls
+  165  adduser gh22
+  166  username : gh22
+  167  password: 123@Awh
+  168  s3.greenhackers.org
+  169  sudo usermod -aG sudo gh22
+  170  sudo su
+  171  ls
+  172  source botenv/bin/activate
+  173  python3 bot.py
+  174  clear
+  175  ls -a
+  176  pwd
+  177  sudo systemctl daemon-reload
+  178  sudo systemctl restart telegram-bot
+  179  systemctl status telegram-bot
+  180  sudo systemctl start telegram-bot
+  181  systemctl status telegram-bot
+  182  clear
+  183  pwd
+  184  /home/gh22/botenv/bin/python3 /home/gh22/bot.py
+  185  sudo systemctl start telegram-bot
+  186  sudo systemctl status telegram-bot
+  187  nano /etc/systemd/system/telegram-bot.service
+  188  clear
+  189  pwd
+  190  sudo systemctl daemon-reload
+  191  sudo systemctl restart telegram-bot
+  192  sudo systemctl status telegram-bot
+  193  sudo nano /etc/systemd/system/telegram-bot.service
+  194  cp /ect/systemd/system/telegram-bot.service ./telegram-bot.service
+  195  sudo nano /etc/systemd/system/telegram-bot.service
+  196  nano telegram-bot.txt
+  197  cd /root
+  198  clear
+  199  sudo nano /etc/systemd/system/telegram-bot.service
+  200  sudo nano /etc/systemd/system/tele-bot.service
+  201  systemctl daemon-reload
+  202  systemctl restart tele-bot
+  203  systemctl status tele-bot
+  204  systemctl start tele-bot
+  205  systemctl status tele-bot
+  206  systemctl enable tele-bot
+  207  systemctl start tele-bot
+  208  systemctl status tele-bot
+  209  /root/botevn/bin/python3 /root/bot.py
+  210  pwd
+  211  ls -a
+  212  python3 -m botenv 
+  213  python3 -m venv botenv 
+  214  source botenv/bin/activate
+  215  /root/botevn/bin/python3 /root/bot.py
+  216  python3
+  217  deactivate
+  218  /root/botevn/bin/python3 /root/bot.py
+  219  pwd
+  220  ls
+  221  ls -a
+  222  cd botenv
+  223  ls
+  224  cd bin
+  225  ls
+  226  python3
+  227  pwd
+  228  /root/botevn/bin/python3 /root/bot.py
+  229  cd ~
+  230  rm botenv
+  231  rm botenv -f
+  232  rm botenv -s
+  233  rm --help
+  234  rm botenv -r
+  235  ls
+  236  ls -a
+  237  python3 -m venv botenv
+  238  source botenv/bin/activate
+  239  python3 bot.py
+  240  pip install pyTelegramBotAPI
+  241  python3 bot.py
+  242  systemctl status tele-bot
+  243  systemctl start tele-bot
+  244  systemctl status tele-bot
+  245  /root/botenv/bin/python3
+  246  /root/botenv/bin/python3 bot.py
+  247  sudo nano /etc/systemd/system/tele-bot.service
+  248  sudo systemctl daemon-reload
+  249  sudo systemctl restart telegram-bot
+  250  sudo systemctl restart tele-bot
+  251  systemctl status tele-bot
+  252  deactivate
+  253  /root/botevn/bin/python3 /root/bot.py
+  254  python3 -m venv telebotevn
+  255  sudo nano /etc/systemd/system/tele-bot.service
+  256  sudo systemctl daemon-reload
+  257  sudo systemctl restart tele-bot
+  258  systemctl status tele-bot
+  259  /root/botenv/bin/python3
+  260  /root/telebotenv/bin/python3
+  261  source telebotenv/bin/activate
+  262  ls
+  263  sudo nano /etc/systemd/system/tele-bot.service
+  264  source telebotevn/bin/activate
+  265  python3 bot.py
+  266  pip install pyTelegramBotAPI
+  267  python3 bot.py
+  268  sudo systemctl daemon-reload
+  269  sudo systemctl restart tele-bot
+  270  systemctl status tele-bot
+  271  logout
+  272  exit
+  273  systemctl status tele-bot
+  274  clear
+  275  systemctl stop telegram-bot
+  276  systemctl disable telegram-bot
+  277  rm /etc/systemd/system/telegram-bot.service
+  278  sudo nano /etc/systemd/system/telegram-bot.service
+  279  sudo systemctl daemon-reload
+  280  systemctl list-units --type=service
+  281  clear
+  282  systemctl status telegram-bot
+  283  su root
+  284  systemctl status telegram-bot
+  285  su root
+  286  clear
+  287  ls
+  288  cat bot.py
+  289  nano bot.py
+  290  clear
+  291  cd /
+  292  ls
+  293  cd bin
+  294  ls
+  295  ls -l
+  296  cd ..
+  297  cd .
+  298  mkdir test
+  299  ls
+  300  cd test
+  301  nano hello.py
+  302  python3 hello.py
+  303  exit
+  304  ls
+  305  cd /
+  306  ls
+  307  cd usr
+  308  ls
+  309  cd ..
+  310  ls
+  311  cd ~
+  312  mysql
+  313  clear
+  314  apt install mysql-server
+  315  mysql_secure_installation utility
+  316  clear
+  317  mysql_secure_installation utility
+  318  ufw enable
+  319  ls
+  320  ufw allow mysql
+  321  cd /etc/mysql/mysql.conf.d
+  322  ls
+  323  nano mysql.cnf
+  324  nano mysqld.cnf
+  325  systemctl start mysql
+  326  systemctl enable mysql
+  327  systemctl restart mysql
+  328  clear
+  329  mysql -u root
+  330  mysql -u root -p
+  331  netstat -an
+  332  apt install net-tools
+  333  net stat -an
+  334  netstat -an
+  335  netstat -an | grep "5001"
+  336  ufw disable
+  337  ufw enable
+  338  ls
+  339  python server.py
+  340  python3 server.py
+  341  ufw allow 5001
+  342  python3 server.py
+  343  ufw disable
+  344  python3 server.py
+  345  ufw enable
+  346  python3 server.py
+  347  cut -d: -f1 /etc/passwd
+  348  passwd gh21 
+  349  cls
+  350  clear
+  351  sudo apt install default-jdk
+  352  ufw enable
+  353  ufw allow 22
+  354  ufw allow 9000
+  355  javac
+  356  javac ChatServer.java
+  357  ls
+  358  javac ChatServer.java
+  359  java ChatServer
+  360  whoami
+  361  ipconfig /all
+  362  ifconfig
+  363  cls
+  364  clear
+  365  ufw allow 22
+  366  ufw allow 5001
+  367  ls
+  368  python3 server.py
+  369  ls
+  370  clear
+  371  mysql -u root -p
+  372  quit
+  373  exit
+  374  systemctl restart mysql
+  375  mysql -u root -p
+  376  clear
+  377  mysql -u root -p
+  378  systemctl restart mysql
+  379  clear
+  380  ufw allow 5001
+  381  sudo systemctl daemon-reload
+  382  sudo systemctl start fileserver2
+  383  sudo systemctl enable fileserver2
+  384  sudo systemctl status fileserver2
+  385  sudo systemctl restart fileserver2
+  386  sudo systemctl status fileserver2
+  387  sudo systemctl restart fileserver2
+  388  sudo systemctl status fileserver2
+  389  python3 fileserver2.py
+  390  sudo systemctl status fileserver2
+  391  sudo systemctl restart fileserver2
+  392  sudo systemctl status fileserver2
+  393  cls
+  394  clear
+  395  systemctl daemon-reload
+  396  sudo systemctl restart fileserver2
+  397  sudo systemctl status fileserver2
+  398  clear
+  399  df -h
+  400  clear
+  401  ls
+  402  cd ..
+  403  cd ~
+  404  LS
+  405  ls
+  406  del *.class
+  407  rm *.class
+  408  clear
+  409  ls
+  410  history
+  411  history > history.txt
+
+
+
+
+//Putty
+//Server: s3.greenhackers.org
+//Password: 1234@Awh
