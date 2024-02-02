@@ -1,8 +1,3 @@
-from tkinter import *
-from tkinter import messagebox
-
-
-def funLogin():
     uname = txtUserName.get()
     password = txtPassword.get()
     if uname == 'aung' and password == '1234':

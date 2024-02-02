@@ -11,7 +11,7 @@ def list_files_in_current_dir():
 # /root/a.py
 #[a.py b.py c.py]
 
-host = "s3.greenhackers.org"
+host = "127.0.0.1"
 port = 5001
 server = socket.socket()
 server.bind((host, port))

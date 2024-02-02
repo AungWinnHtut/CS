@@ -1,8 +1,8 @@
 import socket
 
 s = socket.socket()
-host = "s3.greenhackers.org"
-port = 5001
+host = "0.tcp.ap.ngrok.io"
+port = 12668
 
 print('Connecting to Server...')
 s.connect((host, port))
