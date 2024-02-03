@@ -1,0 +1,12 @@
+[Unit]
+Description=File Server Service Version 5
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /root/fileserver5.py
+Restart=always
+User=root
+WorkingDirectory=/root
+
+[Install]
+WantedBy=default.target

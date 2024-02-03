@@ -36,7 +36,7 @@ def list_files_in_current_dir():
     files = [f for f in os.listdir(current_dir) if os.path.isfile(os.path.join(current_dir, f))]
     return files
 
-host = "127.0.0.1"
+host = "s3.greenhackers.org"
 port = 5001
 server = socket.socket()
 server.bind((host, port))

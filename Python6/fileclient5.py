@@ -18,8 +18,8 @@ def download_file(server_socket, filename):
             f.write(data)
 
 def main():
-    host = "0.tcp.ap.ngrok.io"
-    port = 18179
+    host = "s3.greenhackers.org"
+    port = 5001
 
     s = socket.socket()
     s.connect((host, port))
